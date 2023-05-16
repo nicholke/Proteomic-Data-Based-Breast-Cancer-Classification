@@ -1,6 +1,6 @@
 # Proteomic-Data-Based-Breast-Cancer-Classification
 
-### In Progress-using unsupervised methods for exploratory analysis and will use deep learning methods for final models
+
 
 # Introduction
 Breast cancer is the most common cancer in women in the United States, except for skin cancers. It is about 30% (or 1 in 3) of all new female cancers each year (American Cancer Society). As one of the more prevalent types of cancer, breast cancer has been heavilty studied on a cellular level. The use of precision medicine and gene therapy has become more common in the treatment of cancers . Precision medicine refers to the tailoring of medical treatment based on the cellular profile of a disease and the patient’s genome. Breast cancer is typically classified into four molecular subtypes, HER2, Luminal A, Luminal B, Luminal B-like and Basal-like. These molecular subtypes are typically determined by the genes that the cancer cell expresses. Molecular subtype classification is important because it leads to different standards of care and can improve treatment research. For example, Luminal A cancers tend grow more slowly than other cancers, be lower grade, and have a good prognosis, while HER2-enriched cancers tend to grow faster than luminal cancers and can have a worse prognosis, but are usually successfully treated with targeted therapy medicines aimed at the HER2 protein (Sheng 2022).
